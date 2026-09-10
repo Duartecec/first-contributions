@@ -55,6 +55,7 @@ Jainil Chavda
 - [Shreehari Sudarshan Joshi](https://github.com/shreeharijoshi)
 - [Kuba Slowikowski](https://github.com/Kuba70)
 - [Aaryan C Gole](https://github.com/)
+- [Samuele Niccolai](https://github.com/SamueleNiccolai)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Anand Kumar](https://github.com/anandkumarketha)
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
@@ -62,6 +63,7 @@ Jainil Chavda
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
 - [Sourrrabh](https://github.com/Sourrrabh)
 - [Leonardo Monteiro] (https://github.com/LeoMonteiroS)
+- [Suleiman Muse](https://github.com/SuleimanMuse)
 - [Sarah Ali](https://github.com/SarahZaki03)
 - [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
@@ -217,6 +219,7 @@ vijyot silare
 -Santiago
 - [giteen-shiro](https://github.com/giteen-shiro)
 * [Meenakshi M](https://github.com/meenakshim7)
+- 施想--图文建模
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
@@ -2522,6 +2525,7 @@ andrewcodess
 - [Fabricio Cubero](https://github.com/FabricioFDP)
 - [Rabiul Hossain ]
 - [Ahsan Kabir](https://github.com/AhsanKabir1) 
+- [Alvino Junior](https://github.com/Alvin-keys)
 - [Fadel Bantan](https://github.com/fadelbantan)
 - [Fahmiajik](https://github.com/fahmiajik12)
 - [Faisal Al Ramahi](https://github.com/Rama7ii)
@@ -5515,6 +5519,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Abhinaya Bolishetti](https://github.com/Abhinaya-Bolishetti)
 - [Renee-99](https://github.com/Renee-99)
 - [Saba Parveen](https://github.com/sabasarwer1234-blip)
+- [Evandro Celeghini Rosa](https://github.com/celeghinigit)
 - [WHITE-I-I] (https://github.com/white-I-I)
 - [scarlet0582-alt](https://github.com/scarlet0582-alt)
 - [Dener Matheus](https://github.com/denercm)
@@ -5612,4 +5617,7 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Reddi Abhinaya Sai](https://github.com/abhinaya2126)
 - [huangkexin](https://github.com/huangkexin-commits)
 - [sathyamoorthy](https://github.com/Sathyamoorthy17)
-- [anjelnara](https://github.com/anjelnara)
+- [Surbhi Kumari](https://github.com/surbhisingh1520)
+- [Luiz Felipe Souza Batista](https://github.com/LuizFe098)
+- [FelipeFlister](https://github.com/FelipeFlister)
+- [會博仁](https://github.com/Tsengbrian92)
